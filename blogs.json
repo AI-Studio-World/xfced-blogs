@@ -5,7 +5,7 @@
 "summary": "A practical guide to DCF, comparables, and adjusted net asset methods.",
 "date": "2025-07-12",
 "tags": ["valuation","finance","DCF"],
-"thumbnail": "/assets/hero.jpg",
+"thumbnail": "https://raw.githubusercontent.com/AI-Studio-World/xfced-blogs/refs/heads/main/blogs-assets/valuation-techniques.png",
 "file": "/data/blogs/valuation-techniques.json"
 },
 {
@@ -17,4 +17,5 @@
 "thumbnail": "/assets/hero.jpg",
 "file": "/data/blogs/intrinsic-value-deep-dive.json"
 }
+
 ]
