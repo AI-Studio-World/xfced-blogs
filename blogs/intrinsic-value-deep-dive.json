@@ -4,10 +4,11 @@
 "author": "Samreen",
 "date": "2025-05-30",
 "read_time": "10 min",
-"cover": "/assets/hero.jpg",
+"cover": "https://raw.githubusercontent.com/AI-Studio-World/xfced-blogs/refs/heads/main/blogs-assets/intrinsic-value-deep-dive.png",
 "content_blocks": [
 { "type": "p", "text": "Estimating intrinsic value requires careful adjustments for growth, margins, and discounting. We'll show a step-by-step approach and how to stress-test assumptions." },
 { "type": "h2", "text": "Forecast Scenarioing" },
 { "type": "p", "text": "Create base, optimistic and pessimistic forecasts and check valuation sensitivity to revenue growth and margin assumptions." }
 ]
+
 }
