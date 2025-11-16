@@ -4,7 +4,7 @@
 "author": "Samreen",
 "date": "2025-07-12",
 "read_time": "8 min",
-"cover": "/assets/hero.jpg",
+"cover": "https://raw.githubusercontent.com/AI-Studio-World/xfced-blogs/refs/heads/main/blogs-assets/valuation-techniques.png",
 "content_blocks": [
 { "type": "p", "text": "Valuation is both art and science. In this post we'll walk through the three common approaches: Discounted Cash Flow (DCF), Comparable Company Analysis, and Adjusted Net Asset Method (ANAM)." },
 { "type": "h2", "text": "1. Discounted Cash Flow (DCF)" },
@@ -16,4 +16,5 @@
 { "type": "p", "text": "Useful for asset-heavy businesses; adjust assets & liabilities to market value and net them." },
 { "type": "p", "text": "Conclusion: choose the method (or blend) that best reflects the firm's cash flow predictability and asset intensity." }
 ]
+
 }
