@@ -1,0 +1,19 @@
+{
+"slug": "valuation-techniques",
+"title": "Valuation Techniques for Mid-Market Firms",
+"author": "Samreen",
+"date": "2025-07-12",
+"read_time": "8 min",
+"cover": "/assets/hero.jpg",
+"content_blocks": [
+{ "type": "p", "text": "Valuation is both art and science. In this post we'll walk through the three common approaches: Discounted Cash Flow (DCF), Comparable Company Analysis, and Adjusted Net Asset Method (ANAM)." },
+{ "type": "h2", "text": "1. Discounted Cash Flow (DCF)" },
+{ "type": "p", "text": "Build a cash flow forecast for 5-10 years, estimate terminal value, choose an appropriate discount rate (WACC), and discount back to present value." },
+{ "type": "code", "text": "WACC = (E/V)*Re + (D/V)*Rd*(1-Tc)" },
+{ "type": "h2", "text": "2. Comparable Company Analysis" },
+{ "type": "p", "text": "Select comparable firms, derive multiples (EV/EBITDA, P/E), and apply the median multiple to your firm's metric." },
+{ "type": "h2", "text": "3. Adjusted Net Asset Method" },
+{ "type": "p", "text": "Useful for asset-heavy businesses; adjust assets & liabilities to market value and net them." },
+{ "type": "p", "text": "Conclusion: choose the method (or blend) that best reflects the firm's cash flow predictability and asset intensity." }
+]
+}

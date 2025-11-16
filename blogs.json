@@ -1,0 +1,20 @@
+[
+{
+"slug": "valuation-techniques",
+"title": "Valuation Techniques for Mid-Market Firms",
+"summary": "A practical guide to DCF, comparables, and adjusted net asset methods.",
+"date": "2025-07-12",
+"tags": ["valuation","finance","DCF"],
+"thumbnail": "/assets/hero.jpg",
+"file": "/data/blogs/valuation-techniques.json"
+},
+{
+"slug": "intrinsic-value-deep-dive",
+"title": "Intrinsic Value — A Deep Dive",
+"summary": "How to estimate intrinsic value and adjust for risk in uncertain markets.",
+"date": "2025-05-30",
+"tags": ["valuation","modeling"],
+"thumbnail": "/assets/hero.jpg",
+"file": "/data/blogs/intrinsic-value-deep-dive.json"
+}
+]
