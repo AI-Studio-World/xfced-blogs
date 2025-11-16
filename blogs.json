@@ -6,7 +6,7 @@
 "date": "2025-07-12",
 "tags": ["valuation","finance","DCF"],
 "thumbnail": "https://raw.githubusercontent.com/AI-Studio-World/xfced-blogs/refs/heads/main/blogs-assets/valuation-techniques.png",
-"file": "/data/blogs/valuation-techniques.json"
+"file": "/blogs/valuation-techniques.json"
 },
 {
 "slug": "intrinsic-value-deep-dive",
@@ -14,8 +14,9 @@
 "summary": "How to estimate intrinsic value and adjust for risk in uncertain markets.",
 "date": "2025-05-30",
 "tags": ["valuation","modeling"],
-"thumbnail": "/assets/hero.jpg",
-"file": "/data/blogs/intrinsic-value-deep-dive.json"
+"thumbnail": "https://raw.githubusercontent.com/AI-Studio-World/xfced-blogs/refs/heads/main/blogs-assets/intrinsic-value-deep-dive.png",
+"file": "/blogs/intrinsic-value-deep-dive.json"
 }
 
 ]
+
